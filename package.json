@@ -1,6 +1,6 @@
 {
   "name": "@ottofinancial/deepmerge-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for deepmerge",
   "main": "index.js",
   "scripts": {
