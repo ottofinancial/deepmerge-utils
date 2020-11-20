@@ -1,0 +1,17 @@
+{
+  "name": "@ottofinancial/deepmerge-utils",
+  "version": "1.0.0",
+  "description": "Utilities for deepmerge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/tests.js"
+  },
+  "author": "Andy Burke <andy.burke@mailbox.earth>",
+  "license": "ISC",
+  "dependencies": {
+    "deepmerge": "^4.2.2"
+  },
+  "devDependencies": {
+    "baretest": "github:andyburke-forks/baretest#tap"
+  }
+}
